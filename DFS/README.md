@@ -1,4 +1,4 @@
-[돌아가기]((https://github.com/LEEJ0NGWAN/Algorithm)
+[돌아가기](https://github.com/LEEJ0NGWAN/Algorithm)
 # 깊이 우선 탐색 (Depth First Search)
 
 모든 노드를 방문하는 방법 중에서
