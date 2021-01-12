@@ -1,5 +1,7 @@
 [돌아가기](https://github.com/LEEJ0NGWAN/Algorithm)
 
+[문제목록](./list.md)
+
 # 너비 우선 탐색 (Breadth First Search)
 
 루트에서 시작하여 인접한 노드를 먼저 탐색하는 방법 
