@@ -1,2 +1,5 @@
 .DS_Store
 test.py
+Test.java
+Test.class
+*.class
