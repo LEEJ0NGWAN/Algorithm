@@ -13,3 +13,4 @@
 - [1697 숨바꼭질](./P1697.java) → visit bfs (push visit check)
 - [12851 숨바꼭질2](./12851.py) → visit bfs (pop visit check)
 - [13549 숨바꼭질3](./13549.py) → 우선순위 큐 bfs (pop visit check)
+- [4963 섬의 개수](./P4963.java) → bfs
