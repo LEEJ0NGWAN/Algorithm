@@ -13,6 +13,7 @@
 - [1697 숨바꼭질](./P1697.java) → visit bfs (push visit check)
 - [12851 숨바꼭질2](./12851.py) → visit bfs (pop visit check)
 - [13549 숨바꼭질3](./13549.py) → 우선순위 큐 bfs (pop visit check)
+- [13549 숨바꼭질3](./P13549.java) → arraydeque bfs
 - [4963 섬의 개수](./P4963.java) → bfs
 - [1987 알파벳](./1987.py) → 백트래킹(bfs)
 - [2583 영역 구하기](./2583.py) → visit bfs
