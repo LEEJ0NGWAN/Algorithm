@@ -7,4 +7,5 @@
 - [BFS](./BFS/README.md)
 - [DP](./DP/README.md)
 - [String](./String/README.md)
+- [bit](./bit/README.md)
 - [etc](./etc/README.md)
