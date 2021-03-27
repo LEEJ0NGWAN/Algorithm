@@ -10,4 +10,5 @@
 - [bit](./bit/README.md)
 - [etc](./etc/README.md)
 - [recursive](./recursive/README.md)
+- [dijkstra](./dijkstra/README.md)
 
